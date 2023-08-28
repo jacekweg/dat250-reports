@@ -35,6 +35,8 @@ There was one technical problem that I encountered, and that was a little bit di
 implementation("org.slf4j:slf4j-simple:2.0.7")
 ```
 
-## URL to the published container
+## URLs to the projects
 
 Link to the published container: https://hub.docker.com/repository/docker/jacekweg/dat250/
+
+Link to the repository with the project: https://github.com/jacekweg/dat250assignment1
